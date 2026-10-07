@@ -4,7 +4,7 @@ function App() {
   return <>
     <p>HELLO WORLD</p>
     <Greeting name="kirstie" />
-    <Greeting name={"Gemma" + " McDonald"} />
+    <Greeting salutation="Goodbye" name="Gemma" />
   </>
 }
 
